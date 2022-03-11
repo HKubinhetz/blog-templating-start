@@ -1,3 +1,5 @@
+# Building a blog with jinja + flask! Awesome!
+
 from flask import Flask, render_template
 import requests
 
